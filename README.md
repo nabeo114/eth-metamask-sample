@@ -4,6 +4,8 @@
 
 `eth-metamask-sample` is a sample project demonstrating how to connect to the MetaMask browser extension. It allows users to display their Ethereum account address and balance by connecting their MetaMask wallet.
 
+A live demo is available on GitHub Pages: [Eth Metamask Sample Demo](https://nabeo114.github.io/eth-metamask-sample/)
+
 ## Installation
 
 To run this project locally, follow these steps:
